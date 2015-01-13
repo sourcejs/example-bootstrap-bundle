@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-bundle",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sourcejs/bootstrap-bundle",
+  "authors": [
+    "Robert Haritonov <r@rhr.me>"
+  ],
+  "description": "Bundle of Twitter Bootstrap components with SourceJS specs",
+  "keywords": [
+    "sourcejs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
