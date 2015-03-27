@@ -2,10 +2,6 @@
     <h1>Bootstrap Bundle</h1>
 </div>
 
-<div class="source_catalog" data-nav="/specs/bootstrap-bundle">
-    <h2 class="source_catalog_title"></h2>
-    <ul class="source_catalog_list">
-        <!--Navigation generated dynamically via Global Navigation module-->
-        <img src="/source/assets/i/process.gif" alt="Loading..."/>
-    </ul>
+<div class="source_catalog" data-nav="bootstrap-bundle">
+    <h2></h2>
 </div>
