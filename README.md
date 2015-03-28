@@ -8,16 +8,16 @@ Compatible with SourceJS 0.5.1+.
 
 ## Setup Instructions
 
-1. [Install SourceJS](http://sourcejs.com/docs/base/#install).
-2. Checkout this repo contents as a nested folder in `sourcejs/user/specs`:
+* [Install SourceJS](http://sourcejs.com/docs/base/#install)
+* Checkout this repo contents as a nested folder in `sourcejs/user/specs`:
 
 ```
 cd sourcejs/user/specs
 git clone https://github.com/sourcejs/example-bootstrap-bundle
 ```
 
-3. Run `bower install` in `sourcejs/user/specs/example-bootstrap-bundle`
-4. Re-run SourceJS app, and open http://127.0.0.1:8080/specs/example-bootstrap-bundle.
+* Run `bower install` in `sourcejs/user/specs/example-bootstrap-bundle`
+* Re-run SourceJS app, and open http://127.0.0.1:8080/specs/example-bootstrap-bundle:
 
 ```
 cd sourcejs
