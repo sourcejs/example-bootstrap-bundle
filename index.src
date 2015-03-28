@@ -1,7 +1,12 @@
 <div class="source_subhead">
     <h1>Bootstrap Bundle</h1>
+    <div class="source_catalog_tx">
+        <p>This Spec catalogue features SourceJS based Bootstrap documentation. View <a class="source-a_a" href="https://github.com/sourcejs/example-bootstrap-bundle">source code</a> of this library to compare it with rendered results.</p>
+
+        <p>Navigation pages like this, are hand crafted, following <a href="http://sourcejs.com/docs/data-nav" class="source-a_a">Data Nav API</a>.</p>
+    </div>
 </div>
 
-<div class="source_catalog" data-nav="bootstrap-bundle">
+<div class="source_catalog" data-nav="example-bootstrap-bundle">
     <h2></h2>
 </div>
