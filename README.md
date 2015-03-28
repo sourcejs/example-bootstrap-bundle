@@ -1,5 +1,7 @@
 # Bootstrap Documentation example made in SourceJS
 
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/sourcejs/Source)
+
 Copy of [Bootstrap documentation](http://getbootstrap.com/components), made by using SourceJS native features: EJS includes, Markdown, catalog system, search, clarify for testing examples standalone.
 
 Compatible with SourceJS 0.5.1+.
