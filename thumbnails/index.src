@@ -23,7 +23,7 @@
     <code class="src-html source_visible">
         <div class="row">
             <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail"> <img src="..." alt="..."> </a>
+                <a href="#" class="thumbnail"> <img src="" alt="..."> </a>
             </div>
             ...
         </div>
@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="..." alt="...">
+                    <img src="" alt="...">
 
                     <div class="caption">
                         <h3>Thumbnail label</h3>
