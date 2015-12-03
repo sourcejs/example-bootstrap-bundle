@@ -2,13 +2,13 @@
 
 Copy of [Bootstrap documentation](http://getbootstrap.com/components), made by using SourceJS native features: EJS includes, Markdown, catalog system, search, clarify for testing examples standalone.
 
-[**View it in SourceJS**](http://sourcejs.com/specs/example-bootstrap-bundle)
+[**View it in SourceJS**](https://sourcejs.com/specs/example-bootstrap-bundle)
 
 Compatible with SourceJS 0.5.1+.
 
 ## Setup Instructions
 
-* [Install SourceJS](http://sourcejs.com/docs/base/#install)
+* [Install SourceJS](https://sourcejs.com/docs/base/#install)
 * Checkout this repo contents as a nested folder in `sourcejs/user/specs`:
 
 ```
